@@ -19,7 +19,7 @@ Aplikasi berbasis web untuk membantu siswa memilih bimbingan belajar terbaik ber
 ## 🖼️ Tampilan Aplikasi
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/repo-name/main/screenshots/dashboard.png" width="600" alt="Dashboard">
+  <img src="https://raw.githubusercontent.com/Zal76/SPK-AHP-TOPSIS/main/public/screenshoot/dashboard.png" width="600" alt="Dashboard">
 </p>
 
 <p align="center">
