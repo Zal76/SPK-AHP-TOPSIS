@@ -27,11 +27,11 @@ Aplikasi berbasis web untuk membantu siswa memilih bimbingan belajar terbaik ber
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Zal76/SPK-AHP-TOPSIS/main/public/Screenshoot/perhitunganAHP.png" width="400" alt="Pembobotan">
+  <img src="https://raw.githubusercontent.com/Zal76/SPK-AHP-TOPSIS/main/public/Screenshoot/perhitunganAHP.png" width="400" alt="PerhitunganAHP">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Zal76/SPK-AHP-TOPSIS/main/public/Screenshoot/perhitunganTOPSIS.png" width="400" alt="Pembobotan">
+  <img src="https://raw.githubusercontent.com/Zal76/SPK-AHP-TOPSIS/main/public/Screenshoot/perhitunganTOPSIS.png" width="400" alt="PerhitunganTOPSIS">
 </p>
 
 ---
@@ -47,7 +47,7 @@ Aplikasi berbasis web untuk membantu siswa memilih bimbingan belajar terbaik ber
 
 ## ⚙️ Cara Menjalankan
 ```bash
-git clone https://github.com/username/Spk_Pemilihan_Bimbel.git
+git clone https://github.com/Zal76/SPK-AHP-TOPSIS.git
 cd Spk_Pemilihan_Bimbel
 composer install
 cp .env.example .env
