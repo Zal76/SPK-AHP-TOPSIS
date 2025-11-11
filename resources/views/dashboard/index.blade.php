@@ -1,11 +1,11 @@
 @extends('layouts.app')
 
-@section('title', 'Dashboard SPK Bimbel')
-@section('page-title', 'Dashboard SPK Bimbel')
+@section('title', 'Dashboard EduPick')
+@section('page-title', 'Dashboard EduPick')
 
 @section('content')
 <div class="container-fluid">
-    <h4 class="mb-4">Selamat datang di Dashboard SPK Bimbel</h4>
+    <h4 class="mb-4">Selamat datang di Dashboard EduPick</h4>
 
     <div class="row g-4">
         {{-- Alternatif --}}

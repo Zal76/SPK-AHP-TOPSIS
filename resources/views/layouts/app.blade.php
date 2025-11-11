@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@yield('title', 'SPK Bimbel')</title>
+    <title>@yield('title', 'EduPick')</title>
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" rel="stylesheet">
@@ -106,7 +106,7 @@
 
     <!-- Sidebar -->
     <div class="sidebar d-lg-block d-none">
-        <h4>SPK Bimbel</h4>
+        <h4>EduPick</h4>
 
         <a href="{{ url('/') }}" class="{{ request()->is('/') ? 'active' : '' }}">
             <i class="bi bi-speedometer2 me-2"></i> Dashboard
@@ -136,7 +136,7 @@
     <!-- Navbar (untuk HP) -->
     <nav class="navbar navbar-dark bg-dark d-lg-none">
         <div class="container-fluid">
-            <a class="navbar-brand text-warning fw-bold" href="#">SPK Bimbel</a>
+            <a class="navbar-brand text-warning fw-bold" href="#">EduPick</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mobileMenu">
                 <span class="navbar-toggler-icon"></span>
             </button>
