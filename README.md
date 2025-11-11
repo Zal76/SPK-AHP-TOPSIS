@@ -19,18 +19,24 @@ Aplikasi berbasis web untuk membantu siswa memilih bimbingan belajar terbaik ber
 ## 🖼️ Tampilan Aplikasi
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Zal76/SPK-AHP-TOPSIS/main/public/Screenshoot/dashboard.png" width="600" alt="Dashboard">
+  <img src="https://raw.githubusercontent.com/Zal76/SPK-AHP-TOPSIS/main/public/Screenshoot/dashboard.png" width="400" alt="Dashboard">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/repo-name/main/screenshots/hasil_perhitungan.png" width="600" alt="Hasil Perhitungan">
+  <img src="https://raw.githubusercontent.com/Zal76/SPK-AHP-TOPSIS/main/public/Screenshoot/Pembobotan.png" width="400" alt="Pembobotan">
 </p>
 
-> 💡 *Letakkan semua screenshot kamu di folder `screenshots/` di dalam repo ini.*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Zal76/SPK-AHP-TOPSIS/main/public/Screenshoot/perhitunganAHP.png" width="400" alt="Pembobotan">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Zal76/SPK-AHP-TOPSIS/main/public/Screenshoot/perhitunganTOPSIS.png" width="400" alt="Pembobotan">
+</p>
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## 🛠️ Tools yang Digunakan
 - Laravel 10  
 - MySQL  
 - Tailwind CSS  
